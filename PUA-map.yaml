@@ -1,0 +1,76 @@
+text_id: KR2a0003
+total_unique: 72
+total_occurrences: 261
+entries:
+- {kr: KR0008, char: 􅀈, codepoint: U+105008, count: 36}
+- {kr: KR0030, char: 􅀞, codepoint: U+10501E, count: 1}
+- {kr: KR0034, char: 􅀢, codepoint: U+105022, count: 6}
+- {kr: KR0110, char: 􅁮, codepoint: U+10506E, count: 4}
+- {kr: KR0126, char: 􅁾, codepoint: U+10507E, count: 1}
+- {kr: KR0218, char: 􅃚, codepoint: U+1050DA, count: 1}
+- {kr: KR0253, char: 􅃽, codepoint: U+1050FD, count: 2}
+- {kr: KR0295, char: 􅄧, codepoint: U+105127, count: 5}
+- {kr: KR0316, char: 􅄼, codepoint: U+10513C, count: 5}
+- {kr: KR0317, char: 􅄽, codepoint: U+10513D, count: 3}
+- {kr: KR0339, char: 􅅓, codepoint: U+105153, count: 1}
+- {kr: KR0356, char: 􅅤, codepoint: U+105164, count: 1}
+- {kr: KR0388, char: 􅆄, codepoint: U+105184, count: 1}
+- {kr: KR0409, char: 􅆙, codepoint: U+105199, count: 7}
+- {kr: KR0448, char: 􅇀, codepoint: U+1051C0, count: 2}
+- {kr: KR0516, char: 􅈄, codepoint: U+105204, count: 1}
+- {kr: KR0537, char: 􅈙, codepoint: U+105219, count: 1}
+- {kr: KR0553, char: 􅈩, codepoint: U+105229, count: 1}
+- {kr: KR0555, char: 􅈫, codepoint: U+10522B, count: 2}
+- {kr: KR0570, char: 􅈺, codepoint: U+10523A, count: 2}
+- {kr: KR0571, char: 􅈻, codepoint: U+10523B, count: 1}
+- {kr: KR0589, char: 􅉍, codepoint: U+10524D, count: 1}
+- {kr: KR0608, char: 􅉠, codepoint: U+105260, count: 2}
+- {kr: KR0642, char: 􅊂, codepoint: U+105282, count: 8}
+- {kr: KR0672, char: 􅊠, codepoint: U+1052A0, count: 1}
+- {kr: KR0677, char: 􅊥, codepoint: U+1052A5, count: 1}
+- {kr: KR0729, char: 􅋙, codepoint: U+1052D9, count: 2}
+- {kr: KR0778, char: 􅌊, codepoint: U+10530A, count: 2}
+- {kr: KR0832, char: 􅍀, codepoint: U+105340, count: 2}
+- {kr: KR0906, char: 􅎊, codepoint: U+10538A, count: 2}
+- {kr: KR0912, char: 􅎐, codepoint: U+105390, count: 2}
+- {kr: KR0962, char: 􅏂, codepoint: U+1053C2, count: 1}
+- {kr: KR0971, char: 􅏋, codepoint: U+1053CB, count: 8}
+- {kr: KR1021, char: 􅏽, codepoint: U+1053FD, count: 4}
+- {kr: KR1029, char: 􅐅, codepoint: U+105405, count: 12}
+- {kr: KR1046, char: 􅐖, codepoint: U+105416, count: 4}
+- {kr: KR1068, char: 􅐬, codepoint: U+10542C, count: 2}
+- {kr: KR1109, char: 􅑕, codepoint: U+105455, count: 6}
+- {kr: KR1145, char: 􅑹, codepoint: U+105479, count: 8}
+- {kr: KR1170, char: 􅒒, codepoint: U+105492, count: 2}
+- {kr: KR1222, char: 􅓆, codepoint: U+1054C6, count: 2}
+- {kr: KR1224, char: 􅓈, codepoint: U+1054C8, count: 10}
+- {kr: KR1239, char: 􅓗, codepoint: U+1054D7, count: 2}
+- {kr: KR1350, char: 􅕆, codepoint: U+105546, count: 6}
+- {kr: KR1389, char: 􅕭, codepoint: U+10556D, count: 2}
+- {kr: KR1477, char: 􅗅, codepoint: U+1055C5, count: 2}
+- {kr: KR1485, char: 􅗍, codepoint: U+1055CD, count: 2}
+- {kr: KR1506, char: 􅗢, codepoint: U+1055E2, count: 2}
+- {kr: KR1511, char: 􅗧, codepoint: U+1055E7, count: 4}
+- {kr: KR1577, char: 􅘩, codepoint: U+105629, count: 6}
+- {kr: KR1687, char: 􅚗, codepoint: U+105697, count: 2}
+- {kr: KR1689, char: 􅚙, codepoint: U+105699, count: 2}
+- {kr: KR1743, char: 􅛏, codepoint: U+1056CF, count: 4}
+- {kr: KR1768, char: 􅛨, codepoint: U+1056E8, count: 1}
+- {kr: KR1830, char: 􅜦, codepoint: U+105726, count: 6}
+- {kr: KR1993, char: 􅟉, codepoint: U+1057C9, count: 2}
+- {kr: KR2004, char: 􅟔, codepoint: U+1057D4, count: 2}
+- {kr: KR2180, char: 􅢄, codepoint: U+105884, count: 2}
+- {kr: KR2187, char: 􅢋, codepoint: U+10588B, count: 4}
+- {kr: KR2239, char: 􅢿, codepoint: U+1058BF, count: 4}
+- {kr: KR2242, char: 􅣂, codepoint: U+1058C2, count: 4}
+- {kr: KR2400, char: 􅥠, codepoint: U+105960, count: 6}
+- {kr: KR2540, char: 􅧬, codepoint: U+1059EC, count: 6}
+- {kr: KR2544, char: 􅧰, codepoint: U+1059F0, count: 2}
+- {kr: KR2860, char: 􅬬, codepoint: U+105B2C, count: 4}
+- {kr: KR2883, char: 􅭃, codepoint: U+105B43, count: 2}
+- {kr: KR3202, char: 􅲂, codepoint: U+105C82, count: 2}
+- {kr: KR3222, char: 􅲖, codepoint: U+105C96, count: 4}
+- {kr: KR3321, char: 􅳹, codepoint: U+105CF9, count: 2}
+- {kr: KR3470, char: 􅶎, codepoint: U+105D8E, count: 2}
+- {kr: KR3474, char: 􅶒, codepoint: U+105D92, count: 4}
+- {kr: KR3668, char: 􅹔, codepoint: U+105E54, count: 2}
